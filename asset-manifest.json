@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aiswarya-98/React-Color-Generate-app/static/css/main.598d7b21.css",
+    "main.js": "/Aiswarya-98/React-Color-Generate-app/static/js/main.12ec4337.js",
+    "static/js/787.e10f56fe.chunk.js": "/Aiswarya-98/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js",
+    "index.html": "/Aiswarya-98/React-Color-Generate-app/index.html",
+    "main.598d7b21.css.map": "/Aiswarya-98/React-Color-Generate-app/static/css/main.598d7b21.css.map",
+    "main.12ec4337.js.map": "/Aiswarya-98/React-Color-Generate-app/static/js/main.12ec4337.js.map",
+    "787.e10f56fe.chunk.js.map": "/Aiswarya-98/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598d7b21.css",
+    "static/js/main.12ec4337.js"
+  ]
+}
