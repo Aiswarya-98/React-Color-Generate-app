@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.com/React-Color-Generate-app/static/css/main.598d7b21.css",
-    "main.js": "/.github.com/React-Color-Generate-app/static/js/main.6b479d4c.js",
-    "static/js/787.e10f56fe.chunk.js": "/.github.com/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js",
-    "index.html": "/.github.com/React-Color-Generate-app/index.html",
-    "main.598d7b21.css.map": "/.github.com/React-Color-Generate-app/static/css/main.598d7b21.css.map",
-    "main.6b479d4c.js.map": "/.github.com/React-Color-Generate-app/static/js/main.6b479d4c.js.map",
-    "787.e10f56fe.chunk.js.map": "/.github.com/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js.map"
+    "main.css": "/React-Color-Generate-app/static/css/main.598d7b21.css",
+    "main.js": "/React-Color-Generate-app/static/js/main.2592e7ad.js",
+    "static/js/787.e10f56fe.chunk.js": "/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js",
+    "index.html": "/React-Color-Generate-app/index.html",
+    "main.598d7b21.css.map": "/React-Color-Generate-app/static/css/main.598d7b21.css.map",
+    "main.2592e7ad.js.map": "/React-Color-Generate-app/static/js/main.2592e7ad.js.map",
+    "787.e10f56fe.chunk.js.map": "/React-Color-Generate-app/static/js/787.e10f56fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.598d7b21.css",
-    "static/js/main.6b479d4c.js"
+    "static/js/main.2592e7ad.js"
   ]
 }
